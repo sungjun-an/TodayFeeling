@@ -5,7 +5,6 @@ import android.os.Bundle
 import android.view.View
 import android.view.ViewTreeObserver
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
-import androidx.navigation.findNavController
 import androidx.navigation.fragment.NavHostFragment
 import com.example.todayfeeling.databinding.ActivityMainBinding
 
