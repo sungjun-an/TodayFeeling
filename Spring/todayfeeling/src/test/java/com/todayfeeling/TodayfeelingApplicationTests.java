@@ -1,10 +1,10 @@
-package com.ssafy.demo.demo;
+package com.todayfeeling;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class TodayfeelingApplicationTests {
 
 	@Test
 	void contextLoads() {
